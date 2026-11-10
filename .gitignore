@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+playwright/.cache/
+
+# Downloaded course materials
+VIT_Course_PDFs*/
+course_pdfs/
+downloads/
+*.pdf
